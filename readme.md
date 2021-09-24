@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers from all over the world
 - 🥅 2021 Goals: Expertise in React and NodeJS
-- ⚡ Fun fact: I love sport and play guitar 
+- ⚡ Fun fact: I really love cats and sport
 
 ### Connect with me:
 
