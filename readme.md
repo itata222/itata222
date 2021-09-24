@@ -35,6 +35,9 @@
 <br />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itata222)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [youtube]: https://www.youtube.com/channel/UCAjR102faQhQhpGOyejG_Gg
 [instagram]: https://www.instagram.com/itamarhagai/
 [linkedin]: https://www.linkedin.com/in/itamar-hagai-4614911b8/
