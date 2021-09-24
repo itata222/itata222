@@ -34,6 +34,9 @@
 
 <br />
 
+## Examples of Work:
+<a href="https://github.com/itata222/DamkaOnline_Proj" > Checkers World </a>
+
 ### My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itata222)](https://github.com/anuraghazra/github-readme-stats)
